@@ -1,0 +1,20 @@
+Field name,Definition,Source
+pcGD_I16,"per capita firearm hospitalizations, using firearm related ICD-10 codes only for initial encounters in 2016","State health agencies, HCUPnet. Healthcare Cost and Utilization Project (HCUP). 2006-2009. Agency for Healthcare Research and Quality, Rockville, MD. http://hcupnet.ahrq.gov/ , HCUP State Inpatient Databases (SID) from New Jersey, New York, and Maryland. Healthcare Cost and Utilization Project (HCUP). 2005-2009. Agency for Healthcare Research and Quality, Rockville, MD. www.hcup-us.ahrq.gov/sidoverview.jsp"
+smth_Inc2000,"smoothed inflation-adjusted personal income per capita, using 2000 dollars ",Current Population Survey (CPS) Integrated Public Use Microdata Series (IPUMS) Annual Social and Economic Supplement (ASEC)
+smth_pov,smoothed poverty rate,Current Population Survey (CPS) Integrated Public Use Microdata Series (IPUMS) Annual Social and Economic Supplement (ASEC)
+smth_pcTFnoS,"smoothed per capita firearm deaths, excluding suicides","CDC Wonder, Compressed Mortality Files"
+smth_HFR,smoothed rate of household firearm ownership,
+smth_pct_urban,smoothed percent of population in an urban area,Current Population Survey (CPS) Integrated Public Use Microdata Series (IPUMS) Annual Social and Economic Supplement (ASEC)
+smth_uninsured,smoothed percent of population without health insurance,"United States Census Bureau, Small Area Health Insurance Estimates Program"
+smth_pct_HS,smoothed percent of population with high school or equivalent degree ,Current Population Survey (CPS) Integrated Public Use Microdata Series (IPUMS) Annual Social and Economic Supplement (ASEC)
+smth_pctBachelor,smoothed percent of population with a Bachelor degree or higher,Current Population Survey (CPS) Integrated Public Use Microdata Series (IPUMS) Annual Social and Economic Supplement (ASEC)
+smth_pctWNH,"percent of population that is white, non-Hispanic",United States Census Bureau
+smth_pcVioGunCrime,"smoothed per capita incidence of firearm homicide, aggravated assault with a firearm, and robbery with a firearm","CDC Wonder, Compressed Mortality Files"
+smth_pcCops,smoothed per capita police officers,UCR LEOKA data via NACJD: https://www.icpsr.umich.edu/icpsrweb/content/NACJD/guides/ucr.html
+pct_female,percent of population that is female,United States Census Bureau
+NIS_pct_Dxgun,percent of discharges in the NIS with a firearm related external cause of injury code,"HCUP Nationwide Inpatient Sample (NIS). Healthcare Cost and Utilization Project (HCUP). 2000-2011. Agency for Healthcare Research and Quality, Rockville, MD. www.hcup-us.ahrq.gov/nisoverview.jsp "
+Observed,indicates whether there is an observed value for firearm hospitalizations,
+Mean,"completeness corrected mean estimated firearm hospitalization per 10,000","Sample of 20,000 posterior estimates from STAN model"
+Median,"completeness corrected median estimated firearm hospitalization per 10,000","Sample of 20,000 posterior estimates from STAN model"
+StdDev,"standard deviation of completeness corrected firearm hospitalization estimate per 10,000","Sample of 20,000 posterior estimates from STAN model"
+V7455-V3388,"50 randomly drawn completeness corrected estimates of firearm hospitalizations per 10,000","Sample of 20,000 posterior estimates from STAN model"
