@@ -1,4 +1,8 @@
-//    InjuryModel5.9.stan
+   
+//Copyright (C) 2021 The RAND Corporation
+//This code is licensed under the GPLv3 or later
+//
+//InjuryModel5.9.stan
 //
 //    Last update: September 7, 2020
 //    Authors: Andrew R Morral

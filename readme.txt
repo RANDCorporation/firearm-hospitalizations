@@ -43,3 +43,6 @@ Rosanna Smart (rsmart@rand.org), Samuel Peterson (speterso@rand.org), Terry L. S
 Suggested citation for this repository:
 
 Smart, Rosanna, Peterson, Samuel, Schell, Terry L., Kerber, Rose, and Andrew Morral, “Inpatient Hospitalizations for Firearm Injury: Estimating State-Level Rates from 2000 to 2016” GitHub, RAND Corporation Repository, last updated 24 March 2021. As of March 24, 2021
+
+Copyright (C) 2021 The RAND Corporation
+This code is licensed under the GPLv3 or later

@@ -1,4 +1,7 @@
-########################################################################################
+
+###Copyright (C) 2021 The RAND Corporation###
+###This code is licensed under the GPLv3 or later###
+
 ### InjuryImputeSource.r ###
 
 ## last update: 06/31/20

@@ -1,4 +1,7 @@
-########################################################################################
+
+###Copyright (C) 2021 The RAND Corporation###
+###This code is licensed under the GPLv3 or later###
+
 ### AssembleInjuryData.r ###
 
 ## last update: 02/05/21
