@@ -1,7 +1,7 @@
 
 Project Description
 
-This Github repository includes statistical programs and data used to construct 	estimates of state firearm injury hospitalizations described in “Inpatient 	Hospitalizations for Firearm Injury: Estimating State-Level Rates from 2000 to 	2016” by Rosanna Smart, Samuel Peterson, Terry L. Schell, Rose Kerber, and Andrew R. Morral. RAND Corporation: Santa Monica, TL-A243-3, February, 2021. https://www.rand.org/pubs/tools/TLA243-3.html
+This Github repository includes statistical programs and data used to construct estimates of state firearm injury hospitalizations described in “Inpatient Hospitalizations for Firearm Injury: Estimating State-Level Rates from 2000 to 2016” by Rosanna Smart, Samuel Peterson, Terry L. Schell, Rose Kerber, and Andrew R. Morral. RAND Corporation: Santa Monica, TL-A243-3, February, 2021. https://www.rand.org/pubs/tools/TLA243-3.html
 
 
 Methods used
